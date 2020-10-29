@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tutorial13</string>
+    <string name="call" />
+    <string name="message" />
+    <string name="phone_number" />
+</resources>
